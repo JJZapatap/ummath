@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>0080C0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>La Factorización</titulo>
+        <autor>JOSE JAVIER ZAPATA POLO</autor>
+        <logo>LOGITO.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="applause.mp3" modo="1" >Felicidades</correcto>
+        <incorrecto son="cartoon-fail.mp3" modo="1" >Sigue intentando...</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="152" posy="0">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="75" posy="-3">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <texto posx="147" posy="11" ancho="633" largo="324"><![CDATA[<font size="12"><iframe width="560" height="315" src="https://www.youtube.com/embed/TKo7NtIilWM?si=3jknCij811xwKpw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>9</tipo>
+              <imaxe>imagen.jpg</imaxe>
+              <liga posx="50" posy="300" ir="https://www.youtube.com/watch?v=a8CUEopWCN0">Video1</liga>
+              <liga posx="225" posy="300" ir="https://www.youtube.com/watch?v=-_beAJQn2Ow">Video2</liga>
+              <liga posx="400" posy="300" ir="https://www.liveworksheets.com/c?a=s&amp;t=NXsreZgDyq&amp;sr=n&amp;l=ay&amp;i=sfcond&amp;r=ih&amp;f=dzdfztuf&amp;ms=uz&amp;cd=p--psr-b-itldipekjlnowngnegzxexg&amp;mw=hs">Actividad </liga>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <imaxe>hq720.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
