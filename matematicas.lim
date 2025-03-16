@@ -16,7 +16,7 @@
         <botonson>0</botonson>
         <maximizar>0</maximizar>
         <desordenar>0</desordenar>
-        <correcto son="applause.mp3" modo="1" >Felicidades</correcto>
+        <correcto son="applause.mp3" modo="1" >Felicidades..!</correcto>
         <incorrecto son="cartoon-fail.mp3" modo="1" >Sigue intentando...</incorrecto>
     </config>
     <libro>
